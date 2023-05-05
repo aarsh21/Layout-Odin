@@ -130,8 +130,7 @@ nav {
 .action {
   text-align: center;
   background: rgb(141, 215, 249);
-  margin-left: 15em;
-  margin-right: 15em;
+  margin-left: 28em;
   margin-top: 10em;
   border-radius: 40px;
   display: flex;
@@ -139,6 +138,7 @@ nav {
   align-items: center;
   flex-wrap: wrap;
   padding-bottom: 4em;
+  width: 900px;
 }
 .bob {
   color: rgb(3, 3, 58);
