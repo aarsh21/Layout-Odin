@@ -130,18 +130,23 @@ nav {
 .action {
   text-align: center;
   background: rgb(141, 215, 249);
-  margin-left: 28em;
+  margin-left: 26em;
   margin-top: 10em;
   border-radius: 40px;
   display: flex;
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
-  padding-bottom: 4em;
+  padding-bottom: 2em;
   width: 900px;
 }
 .bob {
   color: rgb(3, 3, 58);
+  
+}
+.bob p{
+  font-size: 1.4em;
+  padding: 3em;
 }
 .action button {
   font-size: 1.5em;
@@ -150,10 +155,12 @@ nav {
   background-color: black;
   border: none;
   padding: 0.6em;
+  
 }
 button:hover {
   color: rgb(6, 117, 43);
 }
+
 footer {
   font-size: x-large;
   text-align: center;
